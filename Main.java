@@ -13,3 +13,12 @@ public class Main{
     System.out.println(Math.min(x,y));
   }
 }  
+//the Math.sqrt method returns the square root of x or y
+public class Main{
+    public static void main(String[]args){
+        int x=64;
+        int y=81;
+        System.out.println(Math.sqrt(x));
+        System.out.println(Math.sqrt(y));
+    }
+}
