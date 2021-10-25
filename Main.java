@@ -22,3 +22,9 @@ public class Main{
         System.out.println(Math.sqrt(y));
     }
 }
+//Math.random()....returns random numbers between 0.0(inclusive) and 1.0(exclusive)
+public class Main{
+    public static void main(String[]args){
+        System.out.println(Math.random());
+    }
+}
